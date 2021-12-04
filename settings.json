@@ -1,0 +1,14 @@
+{
+    "seatAPlayerAName":"Left_Player1_Name.txt",
+    "seatAPlayerADeck":"Left_Player1_Deck.txt",
+    "seatAPlayerBName":"Right_Player1_Name.txt",
+    "seatAPlayerBDeck":"Right_Player1_Deck.txt",
+    "seatBPlayerAName":"Left_Player2_Name.txt",
+    "seatBPlayerADeck":"Left_Player2_Deck.txt",
+    "seatBPlayerBName":"Right_Player2_Name.txt",
+    "seatBPlayerBDeck":"Right_Player2_Deck.txt",
+    "seatCPlayerAName":"Left_Player3_Name.txt",
+    "seatCPlayerADeck":"Left_Player3_Deck.txt",
+    "seatCPlayerBName":"Right_Player3_Name.txt",
+    "seatCPlayerBDeck":"Right_Player3_Deck.txt"
+}
